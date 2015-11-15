@@ -1,5 +1,5 @@
 ## Interface: 11200
 ## Title: Stopwatch
-## SavedVariablesPerCharacter: Stopwatch_frame_coordinates, Stopwatch_is_visible
+## SavedVariablesPerCharacter: Stopwatch_is_visible
 Stopwatch.xml
 

@@ -1,4 +1,3 @@
-Stopwatch_frame_coordinates = { x = 0, y = 0 }
 Stopwatch_is_visible = true
 
 local REFRESH_INTERVAL = 0.05
